@@ -1,4 +1,5 @@
 // Immediately Invoked Function Expressions (IIFE)
+//remove global scope pollution
 
 
 (function chai(){
